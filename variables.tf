@@ -17,3 +17,8 @@ variable "password" {
 variable "instance_name" {
   description = "vm instance name"
 }
+
+variable "additional_tags" {
+  default = {}
+  description = "Additional Tags"
+}
