@@ -1,9 +1,9 @@
-prefix = "devos-jiseon4"
+prefix = "qa"
 location = "koreacentral"
-username = "devos-jiseon4"
-password = "TEst123"
-instance_name = "web-instance-devos-4"
+username = "provisioning_catalog_hyein"
+password = "dksThdud1!3@"
+instance_name = "provisioningcatalogaws"
 additional_tags = {
   "ManagedBy" = "Dev OS",
-  "CreatedBy" = "JISEON"
+  "CreatedBy" = "hyein"
 }
